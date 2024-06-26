@@ -101,7 +101,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2024.06* Beijing Outstanding Graduate (Top 1%)
 - *2023.10* China National Scholarship (Top 1%)
 - *2021-2023* Outstanding Graduate Student at the School Level (Top 10%)
-- *2022* Postgraduate First-Class Scholarship (Top 10%)
+- *2022.10* Postgraduate First-Class Scholarship (Top 10%)
 
 # 📖 Educations
 - *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
@@ -114,6 +114,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 -->
 
 # 💻 Internships
+<img src=../images/master.png width=40 height=40 />**For Master's Research Program**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
