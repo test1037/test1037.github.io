@@ -115,3 +115,25 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/tiktok.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Grace - Conversational AI Product](https://www.doubao.com/chat/)
+
+**Department · China Content Quality and DataRocks · Mathematical Logic | Sequence · Data Science**
+- Advised by Mr. Zhaojian Li
+- Jun. 2023 - Jan. 2024
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workstation of Mao Ming, Academician of Chinese Academy of Sciences</div><img src='../images/corpo1' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. ](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750)
+
+**Department · R&D Engineer**
+- Advised by Dr. Jingjing Fan
+- Jul. 2022 - May. 2023
+</div>
+</div>
+
