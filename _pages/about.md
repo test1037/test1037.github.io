@@ -34,7 +34,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2023.12*: &nbsp;🎉🎉 New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
 - *2023.10*: &nbsp;🎉🎉 New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
 - *2023.08*: &nbsp;🎉🎉 New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
-- *2022.02*: &nbsp;🎉🎉 New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know 2022.
+- *2022.02*: &nbsp;🎉🎉 New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chineses) 2022.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
@@ -44,7 +44,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 
 **Ming Zhan**, Jingjing Fan, Jianying Guo
 
-[**Project**](https://ieeexplore.ieee.org/document/10217826) <strong>Journal Paper</strong>
+[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>Journal Paper</strong>
 - IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
 </div>
 </div>
@@ -55,6 +55,18 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 </div>
 </div>
 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2023</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research on two-stage semi-active ISD suspension based on improved fuzzy neural network PID control](https://www.mdpi.com/1424-8220/23/20/8388)
+
+Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
+
+[**Project**](https://www.mdpi.com/1424-8220/23/20/8388) | <strong>Journal Paper</strong>
+- Sensors 23, no. 20: 8388. https://doi.org/10.3390/s23208388.
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
