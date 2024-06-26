@@ -126,7 +126,8 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workstation of Mao Ming, Academician of Chinese Academy of Sciences</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workstation of Mao Ming,
+  Academician of Chinese Academy of Sciences</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. ](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750)
