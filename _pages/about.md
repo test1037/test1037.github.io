@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=4>Welcome!</font>I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
+<font size=10>Welcome!</font>I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
 
 From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)<img src=../images/tiktok.png width=90 height=20 /> as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
