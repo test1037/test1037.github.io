@@ -21,10 +21,10 @@ redirect_from:
 I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
 
 <!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)<img src=../images/tiktok.png width=120 height=40 /> as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 -->
 
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/) ![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)<img src=../images/tiktok.png width=80 height=30 /> as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
 From 2022 to 2023, I conducted research work for my master program at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==) before joining ByteDance.
 
