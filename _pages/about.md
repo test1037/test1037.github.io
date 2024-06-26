@@ -30,17 +30,20 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
+- *2023.12*: &nbsp;🎉🎉 New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
+- *2023.10*: &nbsp;🎉🎉 New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
+- *2023.08*: &nbsp;🎉🎉 New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
+- *2022.02*: &nbsp;🎉🎉 New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know 2022.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ming Zhan**, Jingjing Fan, Jianying Guo
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
