@@ -19,7 +19,9 @@ redirect_from:
 
 I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
 
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)<img src=../images/tiktok.png width=90 height=20 /> as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li. Before joining ByteDance, I conducted research work for my master program at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
+From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)<img src=../images/tiktok.png width=90 height=20 /> as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+
+From 2022 to 2023, I conducted research work for my master program at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==) before joining ByteDance.
 
 My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
@@ -34,10 +36,10 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2023.12*: &nbsp;🎉🎉 New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
 - *2023.10*: &nbsp;🎉🎉 New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
 - *2023.08*: &nbsp;🎉🎉 New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
-- *2022.02*: &nbsp;🎉🎉 New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chineses) 2022.
+- *2022.02*: &nbsp;🎉🎉 New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 
 # 📝 Publications 
-- For Master's  Research Program
+- ##For Master's  Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
