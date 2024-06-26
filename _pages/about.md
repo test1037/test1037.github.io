@@ -19,7 +19,7 @@ redirect_from:
 
 I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
 
-Before joining UU, I worked at DouBao![Alt](../images/tiktok.png =60x60) as a daily intern in Beijing from 2023 to 2024, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+Before joining UU, I worked at DouBao![Alt](../images/tiktok.png=60x60) as a daily intern in Beijing from 2023 to 2024, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
 My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
