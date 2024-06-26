@@ -125,7 +125,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 <!--
 <img src=../images/master.png width=50 height=50 />**For my Master's Research Program**
 -->
-![master](../images/master.png)**For my Master's Research Program**
+![master](../images/master.png){width=40 height=40}**For my Master's Research Program**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
