@@ -40,7 +40,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 
 # 📝 Publications 
-<img src=../images/master.png width=50 height=50 />**During my Master's Research Program**
+<img src=../images/master.png width=50 height=50 />**For my Master's Research Program**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -132,7 +132,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 [Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. ](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750)
 
-**Department · R&D Engineer**
+**Sequence · Research and Development Engineer**
 - Advised by Dr. Jingjing Fan
 - Jul. 2022 - May. 2023
 </div>
