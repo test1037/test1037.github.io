@@ -19,13 +19,15 @@ redirect_from:
 
 I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
 
-Before joining UU, I worked at DouBao![Alt](../images/tiktok.png width=200 height=100) as a daily intern in Beijing from 2023 to 2024, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+Before joining UU, I worked at DouBao<img src=../images/tiktok.png width=200 height=100 /> as a daily intern in Beijing from 2023 to 2024, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
 My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
 You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
 
-<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+<!--
+![Alt](../images/tiktok.png width=200 height=100)
+I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
