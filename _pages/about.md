@@ -123,7 +123,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Grace - Conversational AI Product](https://www.doubao.com/chat/)
+[DouBao - Large Language Model (LLM) Product](https://www.doubao.com/chat/)
 
 **Department · China Content Quality and DataRocks · Mathematical Logic | Sequence · Data Science**
 - Advised by Mr. Zhaojian Li
