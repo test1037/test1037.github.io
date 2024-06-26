@@ -39,7 +39,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.02*: &nbsp;🎉🎉 New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 
 # 📝 Publications 
-- ##For Master's  Research Program
+- For Master's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
