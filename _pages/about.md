@@ -144,5 +144,5 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 </div>
 </div>
 
-******
+------
 *<p align="center">I know I am not the perfect one, yet aspire to chase the world and achieve greatness.</p>*
