@@ -26,7 +26,7 @@ From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](.
 
 From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
-From 2022 to 2023, I conducted research work for my master's program at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==) before joining ByteDance.
+In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
 
 My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
@@ -44,7 +44,7 @@ You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vit
 - *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
 
 # 📝 Publications 
-- 🎓For My Master's Research Program
+- 🎓During the period of my master's research program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -105,7 +105,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 # 🎖 Honors and Awards
 - *2024.06* Beijing Outstanding Graduate (Top 1%)
 - *2023.10* China National Scholarship (Top 1%)
-- *2021-2023* Outstanding Graduate Student at the School Level (Top 10%)
+- *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
 - *2022.10* Postgraduate First-Class Scholarship (Top 10%)
 
 # 📖 Educations
@@ -121,7 +121,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 -->
 
 # 💻 Internships
-- 🎓For My Master's Research Program
+- 🎓During the period of my master's research program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -144,3 +144,5 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 </div>
 </div>
 
+******
+*<p align="center">I know I am not the perfect one, yet aspire to chase the world and achieve greatness.</p>*
